@@ -1,0 +1,1029 @@
+Tesla hires celebrity ambassador despite Elon Musk saying they don't pay for endorsements | Electrek
+
+
+================================================================================
+
+Timelines for solid state batteries?  Are they fact or just fiction?
+Is five years really that far out or is it best to lease and see how good these more advanced chemistries are?
+
+
+
+================================================================================
+
+Question on charging to 100% but only for a short time. 
+So it seems most people agree that charging to 100% is not ideal for the battery on EVs, and a better option is to charge to 80 daily, since 100% puts more pressure on the battery chemistry. 
+
+However, what if it's only at 100 for a short time? For example, on my Samsung S23 I made a custom routine that the phone only charges to 80% anytime EXCEPT between the 1 hour period between 6am to 7am. This way, the phone is sitting at 80% almost all the time and only charges to 100% at that time period, which corresponds to the time I wake up and unplug the phone from the charger, so it's only at 100% for a very short time.
+
+Would a similar routine work for EVs? And be beneficial?  Thank you. 
+
+================================================================================
+
+Price prediction for escalade iq
+Do anybody have an idea on what the price of the 2025 Escalade IQL will be after the first year or two? 
+
+================================================================================
+
+A Light Commercial Vehicle manufactured by Hexall Motors in India. It has a unique front axle.
+
+
+================================================================================
+
+can you "live-feed" an eletric car?
+i was wondering if thats is any possibility to adapt an generator or perhaps any small engine to feed in real time the electric engine/engines, taking out the necessity of a battery (except for the old regular 12v one for instruments, computers and stuff).
+
+as i see you could may have an car that can run on few liters of gas and benefits from the electric engine torque (im not aiming for a fun car tho, that would be similar to any 12kg/hp boring ones)
+
+but is that possible? its not like the car would have 4 engines and anything close to -10 sec 0-60.. plus it would have a 5-speed short gearbox
+
+================================================================================
+
+Why cant/doesnt tesla build a ”cheap” car?
+With cheap i mean starting price under 30K
+LFP battery prices are falling and just look at the Chevy bolt EV, it only costs 28K Which is good for an EV.
+So why cant tesla just build cheaper EVs? The base model 3 costs like 38K i think in us But uses LFP (57kwh)
+
+================================================================================
+
+'I don't see them lasting': Canoo furloughs 30 employees at Oklahoma City facility
+
+
+================================================================================
+
+Battery energy density should only attain 350 Wh/kg to have 600 miles EV with same weight of an ICE car
+Many people think an EV battery should achieve 13,000 Wh/kg to achieve the same range of a combustion car with the same range. But in reality EV batteries should have 350 Wh/kg pack level energy density attain 600 miles with the same weight.
+
+I did the calculations. 
+
+Take Tesla model 3(SR) for the EV and Toyota Camry TRD for the combustion car.
+
+Camry's curb weight= 1620 kg
+
+Model 3's curb weight = 1628 kg
+
+Model 3's weight without it's battery= 1,172 kg
+
+Tesla model 3 fuel economy= 4 miles/kWh
+
+Energy needed for 600 miles= 150 kWh
+
+Maximum battery weight model 3 
+can have to attain the same curb weight= 1620-1172 kg = 448 kg
+
+Battery's energy density= 150,000 Wh/ 448 kg= 334.82 Wh/kg.
+
+
+
+
+
+
+
+================================================================================
+
+Biden–Harris Admin Aims to Help Slash Cost of EV Battery Recycling - CleanTechnica
+
+
+================================================================================
+
+Geely breaks the 100,000 NEVs in a month sales level for the first time
+
+
+================================================================================
+
+The Philippines' First Official Tesla Showroom is Set to Open on November 8th.
+
+
+================================================================================
+
+Used EV battery health grading introduced in the UK - will it convince people to buy second-hand electric cars?
+
+
+================================================================================
+
+J1772 Charging tips for Buffalo, NY?
+I’m going to Buffalo for a weekend trip and Bills game and staying in downtown Buffalo.
+
+Just wondering if any locals/travellers have had any tips on best recent places to juice up my Ioniq 5? PlugShare is painting a bit of a picture , but and local advice would be greatly appreciated! 
+
+================================================================================
+
+Tesla Charger (newest): how to limit charger access with non Tesla vehicles?
+Hi. I have a Tesla Model 3 and a Mercedes EQS SUV. I have the newest Tesla charger installed. We have no fences, etc and sometimes when we're not at home, our neighbours using my Tesla charger to charge their vehicles. I can restrict the charger by using the 'Tesla only with VIN number' option but with this, I can't charge my EQS. I don't want to add a second charger and I'm happy with the Tesla charger, except this issue.
+
+There's is a trick to solve this problem? Any option?
+
+================================================================================
+
+Broken charging stations
+What if the city fined EV charging station hosts for not maintaining their public charging stations? Would it work/help?  Or make charging too expensive? 
+
+================================================================================
+
+Thoughts on Second Mile EV’s?
+Anyone have another EV inside your EV?
+Bugatti has an electric scooter
+Audi released this teaser for an E-Tron scooter 5 years ago for that last leg in w commute. Encouraging people to park further out and riding in. 
+
+Audi: https://youtu.be/Ip4-mSRZ8rE?si=-NOy5Zlox2UlmatO
+
+This video touched on a lot of good points about riding vs driving in a city: https://youtu.be/I7Ao849B_MI?si=1j8si42lzwUtPggI
+
+================================================================================
+
+Finally a 2-EV family
+https://preview.redd.it/zqkuom3ymcyd1.png?width=1041&format=png&auto=webp&s=8b2df34c3fada37c2db8aeb837968a0852e97ac2
+
+Bought the Tesla new 7 years ago, and picked up the pickup last week. 2024 Chevrolet Silverado EV WT (Work Truck) with the 4WT option (largest battery). 450mi range. I Never would have thought that a huge full-sized pickup would be the range king, but here we are (ok Lucid Air beats it, barely and is a sedan).  It's a great EV, loving it so far.  Yes, not super efficient - no truck is - but it's fully EV and we wanted a big truck.  It's an amazing vehicle for the money.  This is the truck people have wanted. Cybertruck, R1T, F-150-Lightning, all missed the mark.  This one, IMO, nails it.
+
+Monday, I drove about 240mi round trip from San Jose, CA to Santa Rosa CA and back, plus some errands while there.  I did zero charging for the whole trip. Started it at about 70% in San Jose, and ended up back home at about 20%, so used 50% of battery capacity, over 240-ish miles.  Using my superior math skills, that would extrapolate out to 480mi of range on a full 100-0% run.  If that holds, I might be able to go 450mi and end up with 5% still left in the battery.  So impressed!
+
+The WT has AA and CarPlay.  We use Android stuff, and it works well.  I ordered and received a CCS/NACS charging adapter already, but haven't used it yet.  Did one fast charge so far at >350kW on an Electrify America charger near ou house.  Not cheap but VERY fast.  Went from about 15% to about 75% with a peak around 358kW, and it never dropped below 200kW until the very end.
+
+The interior is HUGE, plenty of room for our family of 5 (all adult sized) and two labradors to take road trips.  
+
+The included soft roll up tonneau cover is my least favorite part (glad it was included though).  We'll be getting the GM branded/sold tri-folding hard tonneau cover soon.
+
+We also have roof top solar and 2x Powerwall backup.  Solar isn't enough to cover all our electricity need though (and even less so now with 2 EVs) but still helps.  I'll be thinking about installing a second EV charging/outlet in the garage next year.  For now we will share the Tesla one.
+
+================================================================================
+
+Just saw a review video of the original Tesla Roadster, and EVs used to be exciting
+Recently I saw a review video of the original Tesla Roadster, and it was an exciting car. It got almost 250 miles of range, and it was a first gen EV. Tesla also used a normal car interior for that car, not the all touch screen garbage that they use now. It was also one of the only sports car EVs ever released. Nowadays, even on the legacy auto makers side of thing, all that's coming out is copy and paste SUVs, and most of them use a Tesla style interior without buttons for things like HVAC. Oddly enough even though touch screens are supposed to save auto makers money, lower end EVs are more likely to have normal car interiors. For me anytime I see a car without buttons for things like AC, it instantly kills my excitement for it. I also don't like how we see almost no new EV sedans coming out, just big SUVs
+
+================================================================================
+
+Are there no normal sized EVs with a <100km range being mass produced? 99% of the driving I do is within that range and as far as I c
+I would love an EV with a range of <100km by design. Not a fiat sized novelty either if even those exist with that range, I’m not sure they do though. The vast majority of driving I do is within 100km. Hell, realistically probably 99% of my driving is within 100km and 99% of that 99% is within 25km. 
+
+Do the vast majority of people not have similar length commutes and drives daily eg to grocery store or errands? 
+
+I feel like this is a hole in the market. Every EV manufacturer is pushing for more and more range but I actually want the opposite. EV batteries cost what, 25-35% of the entire cost of a vehicle? If someone made an EV with a battery 1/4 the capacity of current EVs that would effectively cut the battery cost down to 5-10% of the price of the vehicle, which is thousands of dollars or even tens of thousands of dollars saved, and would make battery replacements a much easier pill to swallow. 
+
+What am I missing here? I know car manufacturers aren’t dumb. There must be a reason this isn’t a thing yet. It’s also not just the sticker price itself that could be lowered. Most the EVs I’m looking at have 1,000-2,000 lbs worth of batteries inside. If a car had 300-400 lbs of batteries instead that is a *massive* amount of energy saved over time. Youre burning tonnes of energy on each short trip by having to carry around that huge battery when you might only use 10% of its capacity. 
+
+I know in China the Dolphin goes for under $14k USD. Thanks to tariffs it’s $30k here, but imagining a world where tariffs weren’t in place, battery density keeps getting slightly better, and someone were to design a 100km range EV, that could potentially be a $9k-$10k EV. I think that would be extremely enticing to many people especially considering the lower cost of maintenance on EVs vs ICE. I’d gladly buy this and for my 1 or 2 long drives a year either rent a vehicle or simply charge a few times along the way. 
+
+Any thoughts on this? Why am I wrong? 
+
+================================================================================
+
+China NEV sales figures
+I notice the sub doesn't have much information on most of the Chinese NEV's outside of BYD. Here's the [sales figure](https://i.imgur.com/sjeuP6u.jpeg) of various brands in Oct 2024.
+
+[China NEV sales Oct 2024](https://preview.redd.it/3kr1ga2w3iyd1.jpg?width=4096&format=pjpg&auto=webp&s=97973227fcc9535d330e54dbcaf98a75f51e774d)
+
+Few points -
+
+1. Usually auto sales is a seasonal phenomenon in China, Oct-Dec being the peak period. Jan-Feb usually very low in comparison.
+2. BYD has upped it's game with a few popular PHEV models. Quiet a large gap between BYD and the rest.
+3. NEV sales are consistently >1million per month now, they make about 50% of total car sales currently. Considering the entire year (Jan-Sept) [NEV penetration](https://carnewschina.com/2024/10/12/china-sold-1-287-million-new-energy-vehicles-in-september-2024-up-42-3-yoy/) is about 40%.
+4. [NIO](https://img.cnevpost.com/2024/11/01174210/2024110109421090.jpg), [Xpeng](https://img.cnevpost.com/2024/11/01163422/2024110108342285.jpg) sales are up recently. Xpeng riding on Mona 03 popularity. NIO's Onvo L60 yet to make significant difference, but likely to be a mass seller in 2025. Both are production constrained. Geely with Zeekr and Galaxy brands are also on the rise.
+5. NEV exports are still low in comparison, BYD exported about [31K NEV](https://www.bydglobal.com/sitesresources/common/tools/generic/web/viewer.html?file=%2Fsites%2FSatellite%2FBYD%20PDF%20Viewer%3Fblobcol%3Durldata%26blobheader%3Dapplication%252Fpdf%26blobkey%3Did%26blobtable%3DMungoBlobs%26blobwhere%3D1638928480148%26ssbinary%3Dtrue)'s against 500K total sales in Oct.
+6. Contrary to popular opinion, EU is not the [primary export destination](https://i.imgur.com/A8SIMKd.png).
+7. The pricing pressure put by these NEV's is making lie difficult to many legacy incumbents. [Japanese](https://i.imgur.com/tqa7PgP.png) brands are feeling the pressure. VW is Selling [Passat Pro](https://www.youtube.com/watch?v=AwZc0R86wOQ) in China for €20,000 a car which sells for double the amount in EU. 
+8. VW profits are taking a major hit, but they still sell a lot in China - in 3Q's they sold [2 million](https://i.imgur.com/6niUAlq.jpeg) cars in China. 
+
+Source: [https://x.com/InsideChinaAuto/status/1852388299769589982](https://x.com/InsideChinaAuto/status/1852388299769589982)
+
+================================================================================
+
+The Race Is ON!  Seattle to Boston pt. 1
+
+
+================================================================================
+
+Petition to ask the UK Government to review its decision on VED on EV’s. 
+My family and I were early adopters of electric vehicles, drawn in by the government's promises of encouraging environmentally friendly transportation. However, we now find ourselves facing an unfair financial burden. The government has decided that EV owners must pay a vehicle excise duty of £190 from our car’s second year onwards, while owners of older, smaller diesel cars registered before 2017 are still paying as little as £20 a year.
+
+This is not just a personal issue, but of widespread concern. The discrepancy is glaring: older cars, with substantial CO2 emissions, end up paying less in VED than new EVs that emit no CO2 at all. This undermines the very concept of vehicle taxation that’s supposed to be based on a vehicle’s CO2 emissions and undercuts the incentive to go green.
+
+Given the considerable benefits of electric vehicles in reducing greenhouse gas emissions, this decision seems counterproductive. According to the Office for Low Emission Vehicles, a typical electric car in the UK may emit 60% less CO2 than a petrol car over the course of its life (source: UK Government).
+
+This is an urgent appeal. The unjust taxation disincentivises the adoption of electric vehicles and hinders the country's progress towards environmental sustainability. We call on the government to rethink its decision and foster equitable taxation that truly reflects a vehicle's impact on the environment. Please sign to make your voice heard. 
+
+The UK government says:
+From 1 April 2025, drivers of electric vehicles will need to pay for VED – road tax. Announced by the Government in the 2022 Autumn Budget, Chancellor Jeremy Hunt stated: “To make our motoring tax system fairer I've decided that electric vehicles will no longer be exempt from Vehicle Excise Duty (VED)
+Fairer for who?
+The continued freeze of fossil fuels prices at the pump, will cause the Government financial loss of significant revenue, the VED increases on low CO2, hybrid and EV vehicles will not offset the revenue lost for by the freeze on ICE CO2 generating vehicles. 
+
+Why would current electric owners keep their vehicles when the benefits of owning such a vehicles? 
+
+Please sign the petition here:
+https://chng.it/7v9xxk8trS
+
+================================================================================
+
+General EV Driver Safety
+A general question for all EV owners/drivers. First off, I own an ICE vehicle while my partner owns an EV. I love the EV and am expecting to possible own one as my next vehicle, but after a bunch of drives it had me thinking about driver safety. My partner is a good driver but can have a “lead foot” at times, so it got me thinking that all the torque and power available from the power train instantaneously may be a future problem. Is anyone else thinking that this may be a problem with inexperienced, new, “bad” drivers in the future. Not the cars fault but something that popped in my head. Especially with huge vehicles like the Cybertruck and Hummer EVs out there. Could be a stupid thought but wondering if I’m the only one? TIA!
+
+================================================================================
+
+Hot take: every PHEV should have solar panels.
+I've heard from the handful of EVs that are doing this, that they could pheasibly add 4 miles of range per day. I get why that number feels insignificant for EV drivers (although personally I still say that's pretty awesome) but for some PHEV drivers like me, 4 miles accounts for about half of my daily driving sometimes. 
+
+Anyway just put electricity producing tech on the thing that uses a lot of electricity.
+
+================================================================================
+
+EV and AllSeasons tyres: consumption (your experience) 
+To those who have an EV in cold climates: what's your experience with winter/all seasons tyres in summer? 
+
+I normally put AllSeasons tyres on my cars, because the risk of ice in April/May and October is too high to risk driving around with a summer tyre, and everything is fine. The electric consumption on my PHEV (Renault Captur) increases twofold in winter anyways, and I normally drive hybrid in winter and electric in summer, for commuting. 
+
+Now, I got a second car, a 2nd hand Mini Cooper SE, with summer tyres, and I have the dilemma if change them to AllSeasons, or get a second set of winter. I'd prefer the AllSeasons anyways, but I'm still in doubt. 
+
+For reference, I'd use the Mini for commuting in the city, 10-12000 Km/y. 
+
+Any experience? 
+
+Thanks. 
+
+================================================================================
+
+How Brazil and Costa Rica are getting more people into EVs | Transforming Business
+
+
+================================================================================
+
+My SOC goes up sometimes after charging, even after driving a bit - why?
+I have noticed this a few times but yesterday it happened and I took note. I charged at a DCFC from 43% to 81%. Drove  home  about 1.5 miles, parked, drove a few miles to pick up kids and I noticed it was at 83%. And I am 100% certain I charged to 81%. My car is a 2024 EV9. Just curious why this happens. 
+
+================================================================================
+
+NACS to CCS adapter use with Tesla wall charger
+Has anyone used their NACS to CCS adapter to charge a CCS car with a Tesla home wall charger?
+
+I just tried to charge our Silverado EV from out Tesla wall charger using the adapter, but the truck wouldn't accept any charge. 
+
+Is there any explanation for this?
+
+================================================================================
+
+Still too expensive 
+I'd love to go electric someday, but it's almost 2025 and I can't help but compare EVs to my trusty Audi A3 diesel. It's cheap to run, maintain, and perfect for the long trips I frequently take.
+
+Also the EV market seems to be slowing down. It's almost satisfying to see those cocky car manufacturers like Audi and Mercedes who boasted about going all-electric and how much consumers would love their cars...  Except they're not selling well because most people don't have € 65k to drop on a car with a 400 km range.
+
+Hyundai is the only brand that seems to be getting it right with decent prices, features, and range. But even then, it's still not great. 
+
+I'm just curious because the European agenda is to go almost full electric by 2035. In 10 years. And the tech has been stagnant so far and too expensive. 
+
+We need 800-1000km range with decent features, decent design and a price tag below 30k. That's what most consummer need and I'm just wondering how many years it's going to take before we get to that point
+
+
+================================================================================
+
+Geely overtakes BYD with the EM-i plug-in hybrid system
+
+
+================================================================================
+
+Samsung SDI's operating profit plunges in Q3 amid EV chasm 
+
+
+================================================================================
+
+Electrify America, charging for electricity you don't get?
+I don't usually pay for my electricity at EA because I'm still on a free plan through Hyundai.
+
+Today my girlfriend did. She's driving a Kona with a 64kwhr battery. Her battery was at 39% upon arrival. She charged to 80%.
+
+Let's be generous with rounding and say she charged from 38% to 81%, which is 42% of total charge, or 26.88 kwhrs in total.
+
+EA claims 31.3kwhr were delivered and she was charged for that.
+
+Is this just paying for charger inefficiency? Does anyone have any idea?
+
+Thanks!
+
+Edit: Thanks for the answers; makes sense!
+
+================================================================================
+
+Gas to EV Math - Doesn't Save Anything (like everyone screams)
+I’m in the process of crunching some numbers to see if an EV would save me any money.  My 90% expressway driving with general cruise control is great, but I NEED to get Adaptive Cruise Control (and maybe some self driving / lane centering) to give me a healthier life driving home.  So do I get ACC on an EV or ICE.  That is the decision I’m working on now….
+
+Outside of ‘they are better to drive’ or anything like that, I’m strictly trying to see from a FUEL perspective, how much I would save to replace my Mazda CX5 I drive to work (108 miles a day round trip).  Everything I read, everyone says how they got an EV and save so much money per year on gas/fuel.  I’ve even read posts about going from a car to a lightning for example and saving money.  I feel like they are lying to themselves or my math is really off…If someone could just check my basic numbers and see if I’m correct?  I added even more detail at the end … I do love my spreadsheets / math / calculations and no, I do not own a Subaru. 
+
+B A S I C S
+
+* Car gets 35.0 mpg in warmer temps (been tracking for years on fuelly.com)
+* 108 miles per day round trip ; 2,340 miles per month ; 28,080 miles per year
+* Gas currently in my area is $3.099 / gallon
+* $0.20281 per kWh (charging at home)
+* Looking at a 2024 Lightning F150 (average 2.03 miles per kWh based on what I read online ; will be almost all highway @ roughly 70mph)
+* Looking at a 2022 (or newer) Chevy Bolt (average 3.6 miles per kWh based on what I read online ; same, will be almost all highway @ roughly 70mph)
+
+
+
+**LIGHTING** : If I do the math, I would lose roughly $25 a month by going to the lighting.  I understand it is a larger vehicle and full sized (more comfortable drive for sure).  But if electric rates go up, gas goes down, my average miles per kWh is adjusted at all, I’ll lose even more.  
+
+
+
+**BOLT** : If I do the math on this one, I would save about $1 a month by going to the bolt.  So my savings here is NILL.  I just wanted someone to ball park my math in case my math is just way off.  I’ve heard so many great things about EV saving people hundreds of dollars a month and thousands a year in fuel alone.  I’m just not seeing it.  
+
+
+
+**CAR REGISTRATION** : On top of losing money per month or just breaking even, I will pay something like $250 extra a year on my car’s registration.  This is my state's way of getting their money for roads since I’m not buying gas.  So that doesn’t help either.  I would just save on oil changes which are about $30 every three months or something.
+
+  
+
+
+\--- Raw Details Below
+
+
+
+D E T A I L S
+
+* Currently drive Mazda CX5 ; 2.0L ; 6-speed Manual
+* Almost all my drive is highway, roughly 70mph
+* Average 35.0 mpg in summer ; Average 31.4 mpg in winter (fuelly.com ; years of data)
+* Drive roughly 108 miles a day, 5 days a week (2,340 miles per month ; 28,080 miles per year)
+* Gas currently in my area is $3.099 / gallon
+* Calculated cost per month to drive this car to work in spring/summer : $207.19
+* Calculated cost per month to drive this car to work in winter : $230.94
+
+
+
+L I G H T N I N G
+
+* Estimates below are all if I ended up getting a Ford Lightning
+* Average 2.03 kWh (warmer weather) going about 70MPH (based on stats I found online) ; Big issue is going the 70MPH which is what brings their average down so far
+* Estimated about 1,153 kWh a month used to go 2,340 miles in spring/summer
+* Estimated about 1,560 kWh a month used to go 2,340 miles in winter
+* Current rate for electricity (kWh) in my area is $0.20281  (no special discounts if I charge at night or day)
+* Calculated cost per month to drive to work in spring/summer : $233.78  (a loss roughly $25 a month)
+* Calculated cost per month to drive to work in winter : $316.38  (a loss of roughly -$85 per month)
+
+
+
+B O L T
+
+* Estimates below are all if I ended up getting a Chevy Bolt (more comparable to my Mazda I have now, but smaller and probably less safe on the expressway if I get into an accident)
+* Average 3.56 kWh (warmer weather) going about 70MPH (based on stats I found online)
+* Estimated about 1,153 kWh a month used to go 2,340 miles in spring/summer
+* Estimated about 1,560 kWh a month used to go 2,340 miles in winter
+* Current rate for electricity (kWh) in my area is $0.20281  (no special discounts if I charge at night or day)
+* Calculated cost per month to drive to work in spring/summer : $1.32  (a savings of roughly $1 per month)
+* Calculated cost per month to drive to work in winter : $278.20  (a loss of roughly -$47 per month)
+
+================================================================================
+
+Rivian Exec Says the Buttons in Your Car Are ‘A Bug’ and Voice Commands Are Better
+
+
+================================================================================
+
+Evoy Vita Introduces the World's Most Powerful Electric Outboard Motor to the US
+
+
+================================================================================
+
+Spotted: Walmart Brightdrop Zevo 400
+
+
+================================================================================
+
+Hyundai IONIQ 5 continues to defy expectations as upgraded 2025 model nears release
+
+
+================================================================================
+
+EVs And Hybrids Catapult Hyundai, Kia October U.S. Sales To New Record
+
+
+================================================================================
+
+Alpine A290 First Drive: Renault 5 Turbo EV? Full Review
+
+
+================================================================================
+
+EV Counting while driving
+I have a drive that I take once every week or so, it is about 80 miles round trip down US 19 in Florida. I always count the EVs that I can identify on the road (some are more difficult to spot, but Teslas are easy). Anyway, a year ago when I started this, it was about 12 average EVs for the trip, now it is about 25 average. So, about 100% increase in a year. Does anyone else count EVs on the road?
+
+
+================================================================================
+
+Would Chinese EVs Work in America?
+
+
+================================================================================
+
+Asahi Kasei and Honda to Launch Lithium-Ion Battery Separator Joint Venture in Canada
+
+
+================================================================================
+
+Interview: Michael Schumann on EU decision to increase tariffs on Chinese-made EVs to as much as 45.3% and how it affects Germany
+
+
+================================================================================
+
+Lucid Air Sapphire vs. Porsche Taycan Turbo GT | Quarter Mile, Handling & More
+
+
+================================================================================
+
+This sub is depressing for Americans
+Cool car! Oh - not sold in the US
+
+Cool car! Oh - not sold in the US
+
+Cool car! Oh - not sold in the US
+
+etc etc etc
+
+================================================================================
+
+Hyundai secures largest clean energy supply in Korea, enough to charge over 7 million EVs
+
+
+================================================================================
+
+Rosenbauer: Emergency organizations can now order the new PANTHER 6x6 electric fire truck
+
+
+================================================================================
+
+Noob needs some explanation/advice: EVs in offroad/nature terrain
+having trouble to write a TL;DR, i try to keep it short.
+
+Hi, i'm not having an EV yet, i am in Turkey, cars are unnecessarily expensive here... we have an old Suzuki Vitara 4x4 at the moment and do our best to maintain it as long as possible. 
+
+BUT our next car we want to be an EV.
+
+The thing is: we are living in the mountains with dirt roads, steep roads, during summer drought it's slippery cause dusty, in the winter it's slippery cause muddy. 
+
+1. One thing i don't technically understand with EVs is how they behave in such landscape. The motors are electric and each wheel has its own engine, right? so technically, every EV is 4x4 right?
+
+2. in steep terrain, we have to drive slow. do the electric motors "like it" to drive slow? my question goes towards this: i'm aware about how high my car needs to be above uneven ground, but this aside: do electric SUVs or offroad vehicles (like Jeeps) are somehow optimized for slow driving on steep slopes? or can any normal EV drive on steep slopes and does not suffer under slow/steep/driving? 
+(a gasoline 4x4 car has extra slow gears for this, how does an EV handle this? i only know from other electric motors that they like to run on rated speed (fast) and do not like to be throttled..)
+
+so, it's not that we do hardcore offroad safari trips, it's still all dirt/gravel roads, but until now it was good to have a 4x4 gasoline car.
+
+Do i now also need a "optimized for nature terrain"-EV or does a normal EV serve good with 4x4 and driving slow?
+
+hope you understand what i'm trying to find out! thanks for some explanations!
+ 
+
+================================================================================
+
+BYD sold over half million vehicles for the first time in October
+
+
+================================================================================
+
+Would you share some ideas about the digital car key, which can be a smartphone/smartwatch app or a NFC card?
+Hey there, a couple of days ago, I got some feedback from you for research about digital car key. Thank you very much!
+
+Now I would like to have a bit more input: [https://www.menti.com/alz4xeph9csa](https://www.menti.com/alz4xeph9csa)
+
+Do you prefer a digital key or traditional key fob? And which functions are important to you?
+
+This would be the last time I'm bothering you with this question. Thank you very much and have nice weekend!
+
+================================================================================
+
+weekly roundup for week of 10/24-10/31
+### Most Upvoted Posts
+
+1. [In Michigan, Harris hits back against Trump over his electric car attack lines (1866 🡅)](/r/electriccars/comments/1fx2zy9/in_michigan_harris_hits_back_against_trump_over/)
+2. [Tesla's Cybertruck Reservations Aren't Converting to Sales (1714 🡅)](/r/electriccars/comments/1elp75r/teslas_cybertruck_reservations_arent_converting/)
+3. [LOL (1604 🡅)](/r/electriccars/comments/19aeqs8/lol/)
+4. [Republicans won’t stop trying to kill Biden’s EV tax credit (908 🡅)](/r/electriccars/comments/1dzjos9/republicans_wont_stop_trying_to_kill_bidens_ev/)
+5. [Wait... it's an EV??? (details in comments) (786 🡅)](/r/electriccars/comments/1c1gtn9/wait_its_an_ev_details_in_comments/)
+
+### Most Commented Posts
+
+1. [LOL (1026 💬)](/r/electriccars/comments/19aeqs8/lol/)
+2. [Why do so many young people hate electric cars? (914 💬)](/r/electriccars/comments/1amcn07/why_do_so_many_young_people_hate_electric_cars/)
+3. [EVs are cleaner than gas cars, but a growing share of Americans don't believe it (554 💬)](/r/electriccars/comments/1fnwn9f/evs_are_cleaner_than_gas_cars_but_a_growing_share/)
+
+================================================================================
+
+Xiaomi EV Deliveries Cross 20,000 Units For the First Time in October 
+
+
+================================================================================
+
+Update For Getting Payment in ELMS $2.7M Investor Settlement
+Hey guys,  I posted about this settlement already, but in case you missed it, I decided to post it again. I just found out that they are accepting late claims, so you can still file to get payment even if the deadline has passed.
+
+For those who may not remember, back in 2021, Electric Last Mile faced accusations of execs buying discounted equity without proper valuation. After an investigation, there were leadership changes, with the CEO and Executive Chairman resigning. And investors sued them for that afterwards.
+
+But the good news is that recently, ELMS decided to pay a $2.7M settlement to resolve this. So, if someone's late, you can still file for it (they´re accepting claims even after the deadline). You can check the information and file for the [payment here](https://11thestate.com/cases/electriclastmile-investors-settlement). 
+
+ Hope it helps!
+
+================================================================================
+
+GM CEO Mary Barra says there's so much EV competition in China that it's driving a price war that isn't sustainable 
+https://www.businessinsider.com/general-motors-gm-ceo-mary-barra-ev-china-not-sustainable-2024-10
+
+
+
+
+
+================================================================================
+
+Decision time: New Model Y/3 or 2-year-old e-tron 55 demo?
+Hi everyone,
+
+I'm torn between a new Model Y/3 and a 2-year-old Audi e-tron 55 demo. Both are priced similarly, which makes this decision even harder.
+
+Here's my dilemma:
+
+Audi e-tron: I love the luxurious feel, the driving experience, and the overall build quality. However, I'm worried about the higher maintenance costs down the line.
+Tesla Model Y/3: It's newer, has all the tech, and probably cheaper to maintain, but it doesn't feel as premium as the Audi.
+My daily commute is usually around 100km, but sometimes I drive up to 250km. I have home charging, so the e-tron's higher consumption isn't a dealbreaker, but it's definitely a factor.
+
+What do you think? Which car would be better for my needs in the long run?  I'm especially interested in hearing from people who have experience with either of these cars.
+
+Thanks!
+
+
+
+================================================================================
+
+Best E car for doordashing and Uber?
+Like title says I have always liked my SUV but lately I've been wanting to increase the efficiency of my working days. And gas fillups are a nightmare (currently losing $27.54 USD average per day)
+
+What are some electric cars (or SUV's) that can 
+
+1. Handle around 150 miles per day?  
+2. Price wise being under 100k?  
+3. Have enough room for a passenger and maybe some organizing crates that I use to keep orders sorted and spill proof?
+
+Yes the budget might be a little more than some e cars but again I'm a "noob" with Electric cars sooo any help and advice would be greatly appreciated! Thank you reddit!
+
+================================================================================
+
+The story of the impromptu Honda Prologue Elite and the immediate 1,800-mile cross country trip (with learnings)
+https://preview.redd.it/4yv6ebqhqtxd1.jpg?width=2268&format=pjpg&auto=webp&s=b168c2908849b6f61f5fd70d902856b97d7889b2
+
+I’ll lose my United Premier status this year. I knew the names of the gate employees at Nashville International because, on a monthly basis, I would visit my family in New Jersey after moving there seven years prior. It made sense to fly almost every other month, especially to see my dad, who has undergone some significant surgeries to recover. He’ll be 80 in March. Last summer, I decided to skip the flight and take a road trip up to Jersey in our beloved Mazda CX-5. It was just me, my dog (who is now too big for United flights), and a trailer filled with furniture. The trip took 13.5 hours, plus stops, but I thoroughly enjoyed it.
+
+
+
+When our time with Mazda came to an end, we went on a shopping spree. Mazda didn’t have anything new with the CX-5, and Toyotas and others didn’t impress us either. As we started exploring the Rivian, I6/I9 route, we eventually landed on a Chevy Blazer and really talked ourselves into it. Or so we thought. While we wanted to avoid Tesla, GM’s Super Cruise was incredibly intriguing for cross-country trips. Just then, we heard news that Tesla’s Supercharger network would soon allow charging of their vehicles. This sounded like a perfect match. We decided to order a 2024 Blazer equipped with Super Cruise.
+
+
+
+But then, we encountered a major setback. They informed us that the 2024 Blazer wouldn’t be available with Super Cruise as the ‘25s were on their way. To make matters worse, they also mentioned that it wouldn’t come with CarPlay. The absence of CarPlay was a significant factor in our decision to walk away, despite our strong desire for Super Cruise.
+
+
+
+We were now a week away from a planned trip to New Jersey, anticipating the joy of driving a new car for the journey. As we left the Chevy dealership, we stopped at Wendy’s for a frosty and noticed a Honda dealership across the way. There, in the showroom, sat a Sonic Gray Prologue.
+
+
+
+“Wait a minute, Doc. So, you’re telling me… you’ve built a mid-market import SUV… out of a GM?”
+
+
+
+For those unfamiliar: Honda was so eager to break into the U.S. EV market that it partnered with General Motors to develop this Honda-branded vehicle using GM’s established EV platform, which also underpins models like the Blazer, Equinox, and Cadillac Lyriq. The result is a vehicle that’s low, wide, and substantial, featuring Honda’s signature trim, which tends to be upscale and less sporty compared to Chevrolet’s styling. For those familiar with Honda, this model maintains that familiar, comfortable feel.
+
+
+
+And the cherry on top? It had CarPlay. ON MULTIPLE SCREENS. (Imaging Apple Maps on the main entertainment display, the dash display, AND the head-up display. Yup. I’m Sold.)
+
+
+
+Two days later, we drove up to Evansville, Indiana, to take advantage of out-of-state EV offers and bid farewell to our family CX-5. The two-hour drive back home was incredibly pleasant. The car was smooth, quiet, and incredibly comfortable. We had everything we needed to embark on our journey to New Jersey and back. We left three days later.
+
+
+
+
+
+https://preview.redd.it/8lk38ocjqtxd1.jpg?width=3213&format=pjpg&auto=webp&s=10359db302d59eb9335e47d3f0019dc3d6276752
+
+
+
+
+
+Here’s what we learned during our cross-country crash course in EV ownership.
+
+
+
+**Short Distance**:
+
+
+
+* The primary advantage of an EV is waking up each day to a “full tank,” which, for us, is about 80% charged, or approximately 200 miles. While the general rule is to “ABC” - Always Be Charging - we’ve found that it works well to bring the battery to 80% on Sundays and not charge again until we’re below 50% or have a known trip coming up.
+* For day trips lasting 2-3 hours, we can comfortably drive without worrying about charging. However, for longer journeys, we use the route planner to find the most efficient charging options. Often, we make a stop halfway through the trip to charge, and if we want to arrive home with exactly 20% charge, the planner provides specific instructions on how much to charge from (e.g., 35-55%). This way, we avoid overcharging and wasting time.
+* One-pedal driving is LIFE.
+
+
+
+**Long Distance:**
+
+
+
+* Great planning is crucial for long-distance EV travel. We successfully drove from Buc-ee’s in Richmond, KY, to Nashville on a single charge, leaving us with 10% spare. (222 miles, 3 hours and 15 minutes.)
+* We targeted hotels with EV chargers, but this strategy didn’t always work out as planned. Both hotels didn’t own the parking spaces and, at every hotel, they were occupied by non-EV vehicles. Fortunately, one hotel had an open spot when I returned to grab a parking spot and charge overnight, allowing us to reach 55% charge. However, it’s important to note that relying heavily on this method may not always be feasible.
+   * Additionally, both hotels were unable to tow non-EVs. One hotel compensated us for a night’s stay since it was listed as an amenity.
+* We stopped approximately every 20-45 minutes for every 2.75-3 hours of driving. This seemed like a natural break point, allowing us to grab a snack, walk the dog, and use the restroom.
+   * This is often the most frequently asked question when discussing long-distance EV travel: “Golly, how many times did you need to stop?”
+   * One notable stop occurred at one of the four Buc-ee’s we had targeted. We arrived at 7% charge, did our shopping, and returned to the car at 84%. We may have purchased too much jerky.
+   * A Better Route Planner is an incredible tool, AND IF YOU HAVEN’T DONE SO, install it natively as it will pull in data from your car, providing immaculate navigation. We attempted to use our EVGo credits during our journey, but the convenience of the Super Charger network proved to be a significant advantage, with EV-Go being used only twice in favor of Tesla’s network. 
+      * While we received some curious glances at the Tesla stops, we also encountered many friendly inquiries about the Prologue. If you’re blocking an open Tesla spot, make sure to warn approaching cars that you’re occupying the charger from the other side.
+   * If you’re not a fan of long stops, plan your route to avoid using more than 10-70% of your battery capacity. There’s a steep curve charging from 60 to 70%, followed by 80, 90, and 100%, each taking approximately 30 minutes. Charging at lower percentages is faster and can be advantageous in terms of total travel time.
+* Couldn’t do it without Adaptive Cruise Control.
+
+
+
+
+
+We’ll be returning to this route in December where we’ll see the effects of cold weather on the battery. Wish us luck.
+
+
+
+
+
+================================================================================
+
+Transferring $4k tax credit to dealership
+I'm planning on buying a used Chevy Bolt this weekend.  The sales person at the dealership says I can transfer the $4k tax credit to them and they'll just knock it off the sticker price.  Sounds great to me!  The fishy part, they are stating the thing they need to prove that I qualify for the credit is a drivers license.  I would have thought they'd at least need a pay stub if not a W2.  The dealership is about a five hour drive so I don't want to waste my time.  Am I being bamboozled?
+
+================================================================================
+
+What would be your expectations to a digital car key?What would be your expectations to a digital car key? 
+With smartphone integration and NFC card a modern digital car key can do a lot. Which functions are necessary to you? And Do you still want to have a physical key fob?
+
+Please fill out this short survey: [https://www.menti.com/alz4xeph9csa](https://www.menti.com/alz4xeph9csa)
+
+It's anonymous and takes only two minutes.
+
+Thank you very much!
+
+================================================================================
+
+Hot take: Single-pedal drive is the EV version of a manual transmission
+I was raised on cars.  My dad was a career mechanic and rebuilt maybe a dozen classic cars on the side.  My first ride was a '65 Mustang which he restored from the ground up with me during nights after he'd worked a full day in the shop.
+
+I only drove manual transmissions for the first couple decades of my driving life.  I reluctantly switched to automatics only once I had a 50+ mile commute each direction and finally admitted my left leg was tired of it.  But I still only considered a manual to be real sport driving.
+
+Now I have an EV... well, because it's quiet and modern and is charged every morning in my garage.  And because I got a great deal because all the OEMs overproduced EVs.
+
+I'm not sure how much longer you'll be able to buy a manual transmission, especially in the US. Won't happen overnight, but I bet someday there won't be any production models left which have one.
+
+So, I have decided that single-pedal drive mode is the EV version of a manual.  It's the closest you can get to being directly connected to the motor.  You control how much regenerative braking you get at all times, and how much "sport" you want to trade off versus efficiency in real time.
+
+When I first heard about single pedal driving, I thought it was the worst extreme.  Gamification of driving, and oversimplifying things to the lowest common denominator for the most helpless people.  "Braking is so haaaaaard, I can only handle one buttonnnnnn."  Now that I have one, I've changed my mind, and it's at least one step up from having the car decide what to do at all times with it's magic algorithm.
+
+That's my story, and I'm sticking with it... for now.
+
+================================================================================
+
+Blink Surpassed 100k Charges Globally And Is Paying $3M Settlement to Investors
+Hey guys, I guess there are some Blink investors here. If you missed it, they just reached a new milestone surpassing the 100,000 EV chargers globally. Good for them — I just hope these chargers mean that the problems BLNK changers had a few years ago are behind them too.
+
+
+
+For newbies, in 2020, Blink was accused by the media and users of having severely damaged or non-functioning Blink chargers. In the same year, the company was also criticized for its slow revenue growth compared to the EV industry. 
+
+
+
+All these issues caused a huge $BLNK drop, and investors filed a suit against them. 
+
+
+
+But now, they have finally agreed to pay a $3M settlement with investors to solve this scandal. The deadline is in four weeks, so, if someone got hit back then, you can check the info and file for the [payment here](https://11thestate.com/cases/blink-investor-settlement).
+
+
+
+Anyways, do we have some BLNK investors here? How much did you lose on this if you were in back then?
+
+
+
+================================================================================
+
+New "non-car" of the future...Would you buy one?
+
+
+================================================================================
+
+Lucid to Open Gravity Orders on November 7, Grand Touring Variant Starts at $94,900 
+
+
+================================================================================
+
+Ford EV Unit Loses $1.2 Billion in Q3 as Sales Decline 11%
+
+
+================================================================================
+
+Will smartphone replace the physical key fob in the future? 
+Sorry if this is the wrong place. Since our smartphones can take over a lot of functions of a car key, I want to no your opinion: what function is your must-have? This small survey takes only two minutes: https://www.menti.com/alz4xeph9csa
+
+It's anonymous. Thank you!
+
+================================================================================
+
+Honda ENY1 - charging!? 
+Hiya! I just got a Honda eny1, can I use the css and chademo chargers or only type 2? Do I need adaptor to use these other chargers that aren't type 2? Thanks! 
+
+================================================================================
+
+China Adds 65,500 Charging Piles in September, Reaches 3.33 Million
+
+
+================================================================================
+
+China Warns EU Against Separate EV Tariff Talks with Companies
+
+
+================================================================================
+
+Advice?
+Hey! I have a 2011 Nissan Leaf and live an apartment so the closest charger I have is a Shell Recharge one on the street. They unplugged the two stations they have there and I was wondering if anyone has run into this problem and best way to contact them to figure out when it’s back up? Thank you in advance!
+
+================================================================================
+
+Battery life
+Hi all, sorry if this is the wrong place. I have an Audi Q8 etron on 3 year lease. The app constantly tells me that if I want to preserve battery life then I should only charge to 80%. Firstly, obviously this is ridiculous because what's the point of having a battery of x capacity if you can only charge it to 80%?! However, will real question is; in the 3 years I have the car, does charging it to 100% really have a negative affect for me?
+
+
+================================================================================
+
+Electric cars that have 'magic seats'? (UK)
+Does anyone know any electric cars available in the UK that have seats similar to these Honda magic seats? Basically ones that fold in a way that leaves the well free. Or any that have good access for elderly dogs? 
+
+================================================================================
+
+Does electric feed to house (“aught”) matter for EV charging?
+I recently had my electrical feed upgraded from 1 to 4 "aught", supposedly creating a "super highway" in terms of electricity that can be pulled from the street.
+
+I'm not familiar with the term "aught" - does 4 aught mean my house is better suited for EV charging?
+
+Thank you
+
+
+================================================================================
+
+Would you be willing to take a long trip in an electric car
+Driving an electric car to charge is really inconvenient, I tried a long trip once, but finally I gave up, the charging problem always gave me a headache
+
+================================================================================
+
+New to the server, I need information of sodium ion battery powered cars currently sold on the market (anywhere worldwide) 
+As I've mentioned in the title, I'm in need of more information on what bev car models are offered with sodium ion batteries, anywhere in the world. I'm writing a research paper of sustainable mobility in Europe and I'd like to make a proposal, an electric shared vehicle purposefully built with a set of functions and necessities in mind (I won't go into details on that aspect). I've only got to know this new kind of batteries a couple of weeks ago and I'm hooked. They're almost perfect, from production and raw material costs to availability, to sustainability and similarity with lithium ion battery (they share the same structure, only differentiating in materials, making it easier for a company to switch from producing one to the other), with only a few downsides (energy specific density and degradation) that wouldn't influence much the feasibility of my project. 
+
+Currently, some of the biggest investors and producers of this kind of battery are CATL and Hina from China, Faradion from the UK, Northvolt from Sweden and Natron from the US. Most of these are producing batteries for small vehicles (like mopeds and scooters) and emergency generators for homes. 
+
+https://faradion.co.uk/first-faradion-battery-installed-in-australia/
+
+What's most interesting is Hina, that recently partnered with JAC and produced a working prototype, based on the E10x compact car and powered by (allegedly) 160Wh/kg sodium ion batteries, which then led to the mass production of this vehicle in China. 
+
+https://www.aibangsib.com/a/2170 (article is Chinese-only, unfortunately) 
+
+https://carnewschina.com/2023/12/27/volkswagen-backed-jac-yiwei-ev-powered-by-sodium-ion-battery-starts-mass-production-in-china/ 
+
+Some have also been delivered in South America
+
+https://www.electrive.com/2024/02/22/jac-yiwei-starts-first-exports-electric-cars-with-sodium-ion-batteries/
+
+Now, why the long post? Besides all these news, I can't find any information on these cars! This is big news, why is no one testing these cars on road? Why is there no information on official manufacturers websites? I'm starting to worry it's all propaganda, because as of now only JMEV and JAC have announced mass production of such models (EV3 from the first brand, E10x and E30x from the latter), but only LTP version can be found on their respective websites. 
+
+Do you guys now anything on the matter? This information is very important to me, it gives more credibility to my proposal and, to be honest, I'm getting quite invested on the subject 😅. Sorry for the long post and thank you if you made it to the end! 
+
+================================================================================
+
+Waymo Raises $5.6 Billion for Autonomous Ride-Hailing Expansion
+
+
+================================================================================
+
+weekly roundup for week of 10/17-10/24
+### Most Upvoted Posts
+
+1. [In Michigan, Harris hits back against Trump over his electric car attack lines (1866 🡅)](/r/electriccars/comments/1fx2zy9/in_michigan_harris_hits_back_against_trump_over/)
+2. [Tesla's Cybertruck Reservations Aren't Converting to Sales (1707 🡅)](/r/electriccars/comments/1elp75r/teslas_cybertruck_reservations_arent_converting/)
+3. [LOL (1603 🡅)](/r/electriccars/comments/19aeqs8/lol/)
+4. [Republicans won’t stop trying to kill Biden’s EV tax credit (910 🡅)](/r/electriccars/comments/1dzjos9/republicans_wont_stop_trying_to_kill_bidens_ev/)
+5. [Wait... it's an EV??? (details in comments) (782 🡅)](/r/electriccars/comments/1c1gtn9/wait_its_an_ev_details_in_comments/)
+
+### Most Commented Posts
+
+1. [LOL (1026 💬)](/r/electriccars/comments/19aeqs8/lol/)
+2. [Why do so many young people hate electric cars? (914 💬)](/r/electriccars/comments/1amcn07/why_do_so_many_young_people_hate_electric_cars/)
+3. [EVs are cleaner than gas cars, but a growing share of Americans don't believe it (554 💬)](/r/electriccars/comments/1fnwn9f/evs_are_cleaner_than_gas_cars_but_a_growing_share/)
+
+================================================================================
+
+Are China's electric cars the most powerful in the world?
+Are electric cars everywhere in China? So are their electric cars really that powerful
+
+================================================================================
+
+The New AVATR 07 - Performance, Interior, Autonomous Driving!
+
+
+================================================================================
+
+Nikola Is Betting On Hydrogen And Paying $14.9M Investor Settlement
+Hey guys, I guess there are NKLA and old RMO investors here. If you missed it, Nikola managed to beat the predictions on its Q2 results: they got $31.3M in revenue and $256.3M in cash. That’s great news, and a nice pivot after the issues RMO (now part of NKLA) had with its revenue some time ago. 
+
+
+
+Long story short, Romeo was accused of having a serious shortage of crucial battery cells for their packs due to supply issues. They only had two suppliers, not four as they claimed, which affected their business badly. And, in 2021, they ran out of cells, impacting revenue growth. 
+
+
+
+After this situation, they were hit with a lawsuit from the investors, which they recently resolved with a $14.9M settlement (they´re accepting claims over this even after the deadline). So, if someone's late, you still can [file for it](https://11thestate.com/cases/romeo-power-shareholder-settlement).
+
+
+
+Anyways, do you think NKLA should go all in on H2 vehicles or keep it as it is, taking the latest news? And has anyone here had $RMO when this scandal happened? If so, how much were your losses?
+
+
+
+================================================================================
+
+Best Used Sporty Car for ~40,000 (USD)?
+I recently moved to the bay area in california. As the title says, I'm looking to buy a fairly sporty car with a budget of around $40k (somewhat flexible). I don't want a Tesla, but other than that I'm open to suggestions :)
+
+================================================================================
+
+China to Draft Guidelines for Battery Swapping in New Energy Vehicles
+
+
+================================================================================
+
+MAXIMUS eDELIVER 3 fully electric van
+Hi ive been driving electric cars for about a year now, come to have a look at a second hand car for work. Not familiar with this brand everything looks ok but there is like a rattling noise when pressing/ releasing the breaks.
+
+Found that this part (pictured in the photo) is loose/ broken and is rattling around. Can anyone identify what this part is called, its use and or how much it would cost to fix? tbh of i just lnow the name pf the part o can do the rest of the research myself. 
+
+its situated in the far lower left side when you open the bonnet. also is the bonnet supposed to just come off instead of lifting up? there is jo fixtures that allow it to stay in place once lifted. 
+
+many thanks!
+
+================================================================================
+
+Advice for electric Vauxhall corsa
+Hello all, I am looking for some advice on a Corsa-e which I bought from a UK dealer in September 2023 (13 months ago).
+
+Some details to note before I describe the situation;
+Car is out of manufacturers warranty, bought on PCP but the battery is still in warranty.
+
+So, I began getting issues in December last year, where the car would cut out whilst driving. I quickly contacted the dealership and paid for an investigation, which they said showed no signs of faults. I then lasted a good few months until the issue came back, when it came back this weekend I was doing 60mph on the motorway and the car lost acceleration, started shaking then came to a stop in the middle of the live motorway. I raised it with the dealership again and they said they would charge £180 for another investigation. I have now raised the issue with my finance provider who said they will raise a complaint. 
+The error that comes up before cutting out is “electric traction system fault, see owners manual” 
+
+Nothing in the manual looks helpful wrt the above fault and I had a friend look at the diagnostics who said there was only one fault in the history which looked related to a control module.
+
+So my question is, has anyone had a similar issue with electric vauxhall’s, how did you prove the issue? Any general recommendations?
+
+Thanks!
+
+================================================================================
+
+Advice?  Looking to buy a used Plug-In to replace a minivan
+I'm currently trying to figure out how to best replace my current family van (Toyota Sienna) with an electric plug-in (we are getting solar and upgrading the panel anyhow, so might as well.)
+
+  
+Some factors:
+
+  
+I have two growing teenaged boys, both of whom will be over 6'.  I am 6' and over 250 (working on it).  
+
+We ski - a lot.  This will be our long-distance vehicle. I don't NEED a third row for passengers, but am guessing without one, I'm gonna need a roof-rack for gear.  
+
+We live in the Midwest, so snow and cold is a given...not a ton of hills, but AWD or 4WD are a must.  
+
+I am not rich, I'm looking at $40Kish as my top-line price.  I typically drive cars into the ground (my other car is a 2005 Honda Fit...) ad I take good care of them in terms of maintenance...so the more exotic cars are gonna be harder to justify because those costs add up and it can be harder to find mechanics to work on them/supply parts.  Also, since this is gonna be our daily-driver, I'd rather not have to deal with a finnicky car that requires constant visits to the shop (lookin' at you BMW). 
+
+I have a long-standing and probably very irrational bias against American-made cars. 
+
+I'm currently looking at 2022 versions of the Volvo XC90 Recharge and the Kia Sorrento/Sportage Plug-ins.  
+
+Are there any other options I should be considering?
+
+
+
+
+
+================================================================================
+
+Deadline For Getting Payment In Lightning eMotors $13M Investor Settlement 
+Hey guys! I guess there are some old ZEV investors here. I already posted about this settlement that ZEV agreed to pay investors, but since the deadline is in three weeks, I decided to post again about it.
+
+
+
+For the newbies: in 2021, Lightning eMotors reported a net loss seven times higher than in Q2 2020 and stopped providing financial guidance after announcing a long-term deal with Forest River. When this came out, the shares fell almost 17%, and the investors filed a lawsuit against them for overstating their financial health and prospects that year. 
+
+
+
+Now, the good news is that they recently decided to settle and pay investors $13M to solve this scandal. The deadline is in three weeks, so if you bought it back then, you can check the details and [file for the payment here](https://11thestate.com/cases/lightningemotors-investor-settlement).
+
+
+
+Fast forward to today, as you may know, they filed for bankruptcy a while ago, and just recently Gillig announced that they have acquired assets from $ZEV and have hired some former engineering employees of Lightning.
+
+
+
+So, has anyone here invested in Lightning eMotors back then? If so, how much were your losses?
+
+
+
+================================================================================
+
+Nikola Reaches 5,000 Hydrogen Charging Sessions in 9 Months
+
+
+================================================================================
+
+What is this?
+My father bought this some time ago and it has not been used in a while. It’s a Ford, It’s all electric and can be registered in CA.  We are in Santa Barbara, in the process of moving and I am trying to figure out a f it’s of any value and/or how to get rid of it.  
+
+And not sure this is the right sub.  It’s definitely more than a golf cart…
+
+================================================================================
+
+Lotus Eletre R - an electric hyper-SUV with sports car performance
+
+
+================================================================================
+
+Can someone explain why this EV is impossible?
+
+
+================================================================================
+
+Has anyone requested a quote for the Sensible 4 Oy Renault Twizy L7e 2017 Autonomous Car?
+Hey all, I’m looking into the Sensible 4 Oy Renault Twizy L7e 2017 (the autonomous one) and was curious if anyone here has asked for a quote. How was the process? What’s the ballpark price, and how’s the car in real-world use? Appreciate any insights!
+
+
+
+[https://a1customer.com/products/sensible-4-oy-renault-twizy-l7e-2017-electrical-car-autonomous-robot-car](https://a1customer.com/products/sensible-4-oy-renault-twizy-l7e-2017-electrical-car-autonomous-robot-car) This is the car I want to buy. do you guys have any tips?
+
+================================================================================
+
+weekly roundup for week of 10/10-10/17
+### Most Upvoted Posts
+
+1. [In Michigan, Harris hits back against Trump over his electric car attack lines (1875 🡅)](/r/electriccars/comments/1fx2zy9/in_michigan_harris_hits_back_against_trump_over/)
+2. [Tesla's Cybertruck Reservations Aren't Converting to Sales (1709 🡅)](/r/electriccars/comments/1elp75r/teslas_cybertruck_reservations_arent_converting/)
+3. [LOL (1600 🡅)](/r/electriccars/comments/19aeqs8/lol/)
+4. [Republicans won’t stop trying to kill Biden’s EV tax credit (911 🡅)](/r/electriccars/comments/1dzjos9/republicans_wont_stop_trying_to_kill_bidens_ev/)
+5. [Wait... it's an EV??? (details in comments) (786 🡅)](/r/electriccars/comments/1c1gtn9/wait_its_an_ev_details_in_comments/)
+
+### Most Commented Posts
+
+1. [LOL (1026 💬)](/r/electriccars/comments/19aeqs8/lol/)
+2. [Why do so many young people hate electric cars? (914 💬)](/r/electriccars/comments/1amcn07/why_do_so_many_young_people_hate_electric_cars/)
+3. [EVs are cleaner than gas cars, but a growing share of Americans don't believe it (554 💬)](/r/electriccars/comments/1fnwn9f/evs_are_cleaner_than_gas_cars_but_a_growing_share/)
+
+================================================================================
+
+GAC’s Aion to Unveil New EV Hatchback in November, Expand to Europe in 2025
+
+
+================================================================================
+
+Nissan Leaf Battery Failure Outside of Warranty
+2016 Nissan Leaf SV Original battery failed, replaced under warranty in Oct, 2020. Second battery failed. 
+
+I initially brought the car in early in the year, range dropped from 140 miles to 80 miles. Nissan tested the battery and said the battery was fine despite the issue. 
+
+Battery continued to deplete. I called several times over six months, talking to different people to find out my options. They all said that Nissan will not cover the car and there is nothing they can do. 
+
+I brought it in again a week ago. They confirmed the battery has failed. They will not cover it due to being over warranty by 304 miles and 20 days. Nissan Consumer affairs has reviewed and said that they will not cover the repair. 
+
+I realize and own my mistake here, not bringing it in sooner and my own lack of awareness that the second battery might be covered under the original warranty despite being told it wouldn't be. So please, let's skip all that feedback. I'd like to focus on any creative options on how to address this with Nissan or otherwise. 
+
+================================================================================
+
+Rivian’s Price Target Lowered by Barclays and Wells Fargo Ahead of Q3 Earnings
+
+
+================================================================================
+
+Deception at Tesla's Robotaxi Event
+
+
+================================================================================
+
+Saw a Karma Kaveya on the road today
+It’s Karma’s electric super coupe. I had never even heard of them. It doesn’t look like they are for sale yet but we were on the 405 headed to Los Angeles from Orange County where they have offices in Irvine. It’s a beautiful car. I didn’t take a picture because my wife said she thought it was a new design of a Karmen Ghia. 
+
+There’s no pricing on their website but they want $5K to reserve one. I’m guessing it will be $150K or more. Still, beautiful car. 
+
+================================================================================
+
+Global EV sales up 30.5% in September as China shines, Europe recuperates
+
+
+================================================================================
+
+Aito Showcases Three Models at Paris Auto Show, Completes 15,000 Km Eurasian Trip
+
+
+================================================================================
+
+Any other EV's with *good* regen on icy roads?
+I tested a mini cooper SE (4 years old) on an iced over road. The regen was terrific. I could not make it block the wheels. I've read about Tesla's and Rivians having regen block their wheels and skid. Are there any other good EV regens on ice out there, preferrably with 4wd? Any experience?
+
+================================================================================
+
